@@ -1,6 +1,7 @@
 # Customer-Analytics
 
 Enunciado
+
 OBJETIVOS
 
 Analizar un conjunto de datos transaccionales.
